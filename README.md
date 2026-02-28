@@ -1,24 +1,18 @@
 # hospital-sql-analysis
 This is a simple SQL project based on hospital data analysis. In this project, I used SQL queries to find total patients, average doctors, medical expenses, longest hospital stay, and patient details by city. It shows basic SQL concepts like SUM, AVG, GROUP BY, ORDER BY, and date functions.
 
-Yeh aapke project ke liye **complete README.md file content** hai. Aap isko direct copy karke GitHub me `README.md` file me paste kar sakte ho.
+#  Hospital Data Analysis Using SQL
 
----
-
-# 🏥 Hospital Data Analysis Using SQL
-
-## 📌 Project Overview
+## Project Overview
 
 This project is based on hospital data analysis using SQL.
 The main goal of this project is to extract meaningful insights from hospital data using different SQL queries and functions.
 
----
+## Dataset Information
 
-## 📂 Dataset Information
+Table Name: `hospital_data`
 
-**Table Name:** `hospital_data`
-
-### Columns Used:
+## Columns Used:
 
 * Hospital_Name
 * Location
@@ -28,7 +22,7 @@ The main goal of this project is to extract meaningful insights from hospital da
 * Admission Date
 * Discharge Date
 
-## 🔎 SQL Operations Performed
+##  SQL Operations Performed
 
 ✔ Total number of patients across all hospitals
 ✔ Average number of doctors per hospital
@@ -39,7 +33,7 @@ The main goal of this project is to extract meaningful insights from hospital da
 ✔ Total patients treated per city
 ✔ Average length of stay per hospital
 
-## 🛠 SQL Concepts Used
+## SQL Concepts Used
 
 * SUM()
 * AVG()
@@ -49,7 +43,7 @@ The main goal of this project is to extract meaningful insights from hospital da
 * DATEDIFF()
 * STR_TO_DATE()
   
-## 🎯 Project Purpose
+## Project Purpose
 
 This project helps in understanding:
 
